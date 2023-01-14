@@ -8,6 +8,8 @@ This is a fullscreen effect that applies to all object using motion vectors in t
 
 ## Demo
 
+https://user-images.githubusercontent.com/34025682/212476802-2de878d8-37a8-4ddd-b1ee-240f61968056.mp4
+
 ## Instructions
 * Import the "URP Simple Per Object Motion Blur" package into your Unity project.
 * Add a Full Screen Pass Renderer Feature into your URP renderer.
