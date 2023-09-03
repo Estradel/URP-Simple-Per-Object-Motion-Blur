@@ -16,7 +16,11 @@
             "m_Id": "b404ff65dad84d47a0b0de4880296afd"
         }
     ],
-    "m_Keywords": [],
+    "m_Keywords": [
+        {
+            "m_Id": "1163f772f9d8454faf37fda7a4aede2b"
+        }
+    ],
     "m_Dropdowns": [],
     "m_CategoryData": [
         {
@@ -531,6 +535,31 @@
         "w": 0.0
     },
     "m_Labels": []
+}
+
+{
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.ShaderKeyword",
+    "m_ObjectId": "1163f772f9d8454faf37fda7a4aede2b",
+    "m_Guid": {
+        "m_GuidSerialized": "eb1b1991-b7fd-458d-ad2d-24b351b23c97"
+    },
+    "m_Name": "_ISGAMEVIEWANDPLAYING",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "_ISGAMEVIEWANDPLAYING",
+    "m_DefaultReferenceName": "_ISGAMEVIEWANDPLAYING",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": false,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_DismissedVersion": 0,
+    "m_KeywordType": 0,
+    "m_KeywordDefinition": 1,
+    "m_KeywordScope": 1,
+    "m_KeywordStages": 2,
+    "m_Entries": [],
+    "m_Value": 0,
+    "m_IsEditable": true
 }
 
 {
@@ -2553,6 +2582,9 @@
         },
         {
             "m_Id": "b404ff65dad84d47a0b0de4880296afd"
+        },
+        {
+            "m_Id": "1163f772f9d8454faf37fda7a4aede2b"
         }
     ]
 }
