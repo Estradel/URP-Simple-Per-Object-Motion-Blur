@@ -9,7 +9,7 @@ public sealed class MotionBlurActivator : MonoBehaviour
     [SerializeField] private string[] cameraBlacklist = new string[2] { "SceneCamera", "Preview Scene Camera" };
     [SerializeField] private ScriptableRendererFeature motionBlurFeature;
 
-    private bool MotionBlurEnabled { get => GameSettings.MotionBlurOn; }
+    private bool MotionBlurEnabled { get => true; }
 
     public void OnEnable()
     {
